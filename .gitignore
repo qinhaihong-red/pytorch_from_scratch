@@ -1,7 +1,9 @@
 .ipynb_checkpoints
 cache
 data
+model
 Untitled.ipynb
 nn_test.ipynb
 data_loading_tutorial.ipynb
 download_pytorch_datasets.ipynb
+normalize_image.ipynb
